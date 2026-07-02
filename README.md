@@ -1,7 +1,7 @@
 # MCP server that exposes your database(PostgreSQL) database to AI applications.
 
 ## QUick Start
-1. `docker-compose up -d`
+1. `docker-compose up -d postgres`
 2. `go run ./cmd/server
     or 
    npx @modelcontextprotocol/inspector go run . ` 
