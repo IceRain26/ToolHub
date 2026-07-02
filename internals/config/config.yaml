@@ -1,0 +1,15 @@
+server:
+  name: ToolHub Server
+  version: "0.1.0"
+
+database:
+  host: localhost
+  port: 5432
+  user: postgres
+  password: secret
+  dbname: toolhubDB
+  sslmode: disable
+
+query:
+  max_rows: 100
+  timeout_seconds: 5

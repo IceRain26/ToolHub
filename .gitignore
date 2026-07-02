@@ -1,0 +1,30 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+server/mcp-server.exe
+server/server
+client/client
+
+# Go
+*.test
+*.out
+vendor/
+go.work
+
+# Docker
+*.pid
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+

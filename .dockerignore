@@ -1,0 +1,8 @@
+.git
+.vscode
+.bin
+*.exe
+*.log
+README.md
+.env
+server/mcp-server.exe
